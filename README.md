@@ -1,4 +1,5 @@
 用于情感分类的minBERT
+
 预训练
 ```bash
 python3 classifier.py --option pretrain --lr 1e-3
