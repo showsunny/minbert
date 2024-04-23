@@ -6,5 +6,5 @@ python3 classifier.py --option pretrain --lr 1e-3
 ```
 微调
 ```bash
-python classifier.py --option finetune --lr 1e-5
+python3 classifier.py --option finetune --lr 1e-5
 ```
