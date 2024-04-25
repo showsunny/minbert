@@ -5,7 +5,7 @@ git clone https://github.com/showsunny/minbert.git
 ```
 安装环境和依赖项
 ```bash
-sh setup.sh
+ source setup.sh
 ```
 预训练
 ```bash
